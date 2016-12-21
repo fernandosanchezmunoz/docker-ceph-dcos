@@ -1,2 +1,2 @@
-# docker-mesos
-Docker image for Mesos.
+# docker-ceph-on-mesos
+Docker image for Ceph-on-Mesos.
